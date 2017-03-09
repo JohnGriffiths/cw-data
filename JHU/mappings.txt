@@ -1,0 +1,21 @@
+name,nii_file,nii_file_id,4dvolind
+Anterior thalamic radiation L,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,0
+Anterior thalamic radiation R,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,1
+Corticospinal tract L,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,2
+Corticospinal tract R,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,3
+Cingulum (cingulate gyrus) L,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,4
+Cingulum (cingulate gyrus) R,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,5
+Cingulum (hippocampus) L,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,6
+Cingulum (hippocampus) R,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,7
+Forceps major,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,8
+Forceps minor,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,9
+Inferior fronto-occipital fasciculus L,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,10
+Inferior fronto-occipital fasciculus R,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,11
+Inferior longitudinal fasciculus L,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,12
+Inferior longitudinal fasciculus R,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,13
+Superior longitudinal fasciculus L,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,14
+Superior longitudinal fasciculus R,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,15
+Uncinate fasciculus L,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,16
+Uncinate fasciculus R,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,17
+Superior longitudinal fasciculus (temporal part) L,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,18
+Superior longitudinal fasciculus (temporal part) R,/usr/share/fsl/data/atlases/JHU/JHU-ICBM-tracts-prob-2mm.nii.gz,0,19
